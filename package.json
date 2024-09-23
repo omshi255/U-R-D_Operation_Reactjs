@@ -1,6 +1,7 @@
 {
   "name": "counter_react",
   "version": "0.1.0",
+  "homepage": "https://omshi255.github.io/CRUD_Operation_React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
